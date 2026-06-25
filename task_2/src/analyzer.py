@@ -65,5 +65,11 @@ def get_missing_submissions(data: List[Dict]) -> List[str]:
             missing_submissions.append(student["name"])
     return missing_submissions
 
+def write_summary(summary: Dict, output_path: str) -> None:
+    with open(output_path, "w") as file:
+        json.dump(summary, file, indent=4)
+        
+    print(f"Summary written to {output_path}")
+
 
 
