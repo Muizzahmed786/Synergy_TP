@@ -1,75 +1,92 @@
-1.  Command : pwd
-    purpose : display current working directory
-    output : `/c/Users/mulla/Desktop/Folders/Synergy_TP`
-
-2.  Command : ls
-    purpose : diplay files present in the current directory
+1.  Command : pwd <br/>
+    purpose : display current working directory <br/>
+    output : `/c/Users/mulla/Desktop/Folders/Synergy_TP` <br/>
+    <br/>
+    
+2.  Command : ls <br/>
+    purpose : diplay files present in the current directory <br/>
     output : `README.md  task_1/  task_2/`
+    <br/>
 
-3.  Command : ls -la
-    purpose : Shows hidden files
-    output :    total 22
-                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:51 ./
-                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:50 ../
-                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:51 .git/
-                -rw-r--r-- 1 mulla 197609 79 Jun 25 10:59 .gitignore
-                -rw-r--r-- 1 mulla 197609 55 Jun 25 10:50 README.md
-                drwxr-xr-x 1 mulla 197609  0 Jun 25 11:05 task_1/
-                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:51 task_2/
+4.  Command : ls -la <br/>
+    purpose : Shows hidden files <br/>
+    output :    total 22 <br/>
+                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:51 ./ <br/>
+                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:50 ../ <br/>
+                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:51 .git/ <br/>
+                -rw-r--r-- 1 mulla 197609 79 Jun 25 10:59 .gitignore <br/>
+                -rw-r--r-- 1 mulla 197609 55 Jun 25 10:50 README.md <br/>
+                drwxr-xr-x 1 mulla 197609  0 Jun 25 11:05 task_1/ <br/>
+                drwxr-xr-x 1 mulla 197609  0 Jun 25 10:51 task_2/ <br/>
+    <br/>
 
-4.  Command : cd
-    purpose : change current working directory
-    usage : `cd Task_1`
+5.  Command : cd <br/>
+    purpose : change current working directory <br/>
+    usage : `cd Task_1` <br/>
+    <br/>
 
-5.  Command : mkdir
-    purpose : Create Directory
-    usage `mkdir Task_2`
+6.  Command : mkdir <br/>
+    purpose : Create Directory <br/>
+    usage `mkdir Task_2` <br/>
+    <br/>
 
-6.  Command : touch
-    purpose : creates a file
-    usage : `touch file_name`
+7.  Command : touch <br/>
+    purpose : creates a file <br/>
+    usage : `touch file_name` <br/>
+    <br/>
 
-7.  Command : cat
-    purpose : Displays file content
-    usage : `cat sample.txt`
+8.  Command : cat <br/>
+    purpose : Displays file content <br/>
+    usage : `cat sample.txt` <br/>
+    <br/>
 
-8.  Command : echo
-    purpose : prints the user typed input
-    usage : `echo hello world`
+9.  Command : echo <br/>
+    purpose : prints the user typed input <br/>
+    usage : `echo hello world` <br/>
+    <br/>
 
-9.  Command : cp
-    purpose : copies files
-    usage : `cp source.txt destination.txt`
+10.  Command : cp <br/>
+    purpose : copies files <br/>
+    usage : `cp source.txt destination.txt` <br/>
+    <br/>
 
-10. Command : mv
-    Purpose : moves files
-    usage : `mv source_dir destination_dir`
+11. Command : mv <br/>
+    Purpose : moves files <br/>
+    usage : `mv source_dir destination_dir` <br/>
+    <br/>
 
-11. Command : rm
-    purpose : deletes files
-    usage : `rm file_name`
+12. Command : rm <br/>
+    purpose : deletes files <br/>
+    usage : `rm file_name` <br/>
+    <br/>
 
-12. Command : grep
-    purpose : selects text from file content
-    usage : `grep world sample.txt`
+13. Command : grep <br/>
+    purpose : selects text from file content <br/>
+    usage : `grep world sample.txt` <br/>
+    <br/>
 
-13. Command : find
-    purpose : finds files
-    usage : `find . -name "*.py"`
+14. Command : find <br/>
+    purpose : finds files <br/>
+    usage : `find . -name "*.py"` <br/>
+    <br/>
 
-14. Command : head
-    purpose : prints first 10 lines
-    usage : `head file_name`
+15. Command : head <br/>
+    purpose : prints first 10 lines <br/>
+    usage : `head file_name` <br/>
+    <br/>
 
-15. Command : tail
-    purpose : prints last 10 lines
-    usage : `tail file_name`
+16. Command : tail <br/>
+    purpose : prints last 10 lines <br/>
+    usage : `tail file_name` <br/>
+    <br/>
 
-16. Command : wc
-    purpose : Counts lines/words
-    usage : `wc sample.txt`
+17. Command : wc <br/>
+    purpose : Counts lines/words <br/>
+    usage : `wc sample.txt`<br/>
+    <br/>
 
-17. Command : chmod
-    purpose : change file permissions
-    usage : `chmod +x Task_1/src/hello.py`
+18. Command : chmod <br/>
+    purpose : change file permissions <br/>
+    usage : `chmod +x Task_1/src/hello.py` <br/>
+    <br/>
 
