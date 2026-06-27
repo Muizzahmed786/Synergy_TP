@@ -32,4 +32,4 @@ python task_3/src/main.py task_3/data/submissions.csv
 2. pandas_summary.json
 
 ## Short explanation of the implemented logic.
-the rows of the data file is read. for each row the values are stored by spliting with `,` being the limiter. Then the type conversion is applied on the `score` and `submission` column. <br />
+Reading the rows of the data file occurs. The process entails storing the rows based on splitting them using `,` as the separator.<br /> Type casting is performed on the `score` and `submission` fields.<br/>
