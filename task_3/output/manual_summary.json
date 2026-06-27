@@ -1,0 +1,19 @@
+{
+    "Total students": 7,
+    "Submitted students": 5,
+    "Missing students": 2,
+    "Average score": 6.8,
+    "Highest score": 9,
+    "Highest scorer": "Isha",
+    "Lowest score": 4,
+    "Lowest scorer name": "Rohan",
+    "Not submitted": [
+        "Kabir",
+        "Dev"
+    ],
+    "Scores below 5": [
+        "Kabir",
+        "Rohan",
+        "Dev"
+    ]
+}
